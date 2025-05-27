@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="256" cy="256" r="240" fill="#FF6B6B"/>
+    
+    <!-- Spice Leaf Design -->
+    <path d="M256 120 C 320 120, 360 200, 320 256 C 360 312, 320 392, 256 392 C 192 392, 152 312, 192 256 C 152 200, 192 120, 256 120" 
+          fill="white" 
+          stroke="white" 
+          stroke-width="8"/>
+    
+    <!-- Spice Dots -->
+    <circle cx="256" cy="256" r="32" fill="#FF6B6B"/>
+    <circle cx="200" cy="200" r="16" fill="#FF6B6B"/>
+    <circle cx="312" cy="200" r="16" fill="#FF6B6B"/>
+    <circle cx="200" cy="312" r="16" fill="#FF6B6B"/>
+    <circle cx="312" cy="312" r="16" fill="#FF6B6B"/>
+</svg> 
